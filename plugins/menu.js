@@ -28,13 +28,13 @@ let prova = {
 "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
 }}, "participant": "0@s.whatsapp.net"
 }
-let text = `─⭓ *☁️𝑴𝒐𝒐𝒏𝑪𝒍𝒐𝒖𝒅𝒔⇝𝐁Ꮻ𝐓|mənū☁️*
+let text = 🔱ꪶ͢≋🌀𝕍𝕒𝕝𝕙𝕒𝕝𝕝𝕒-𝔹𝕠𝕥🌀ꪶ͢≋🔱🅼🅴🅽🆄
 *ciao ${name} in base a quale dispositivo hai, esegui il comando!*
   ඬ ${usedPrefix}MENUANDROID
   ඬ ${usedPrefix}MENUIOS
   ඬ ${usedPrefix}NEWS
- ⇝ *ꪶ͢𝑴☁️ꫂ ᵉᵈᶦᶻ ²⁰²³*
-   https://chat.whatsapp.com/JgshFc8KChtAai6ZfbI9QZ `.trim() 
+ 🔱ꪶ͢≋🌀𝕍𝕒𝕝𝕙𝕒𝕝𝕝𝕒🌀ꪶ͢≋🔱
+   https://chat.whatsapp.com/GNCeeOmtBoUFsHMaSvUi2A `.trim() 
 conn.reply(m.chat, text, prova, m, false, )
 }
 handler.help = ['menu']
