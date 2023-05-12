@@ -28,7 +28,7 @@ let prova = {
 "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`
 }}, "participant": "0@s.whatsapp.net"
 }
-let text = 🔱ꪶ͢≋🌀𝕍𝕒𝕝𝕙𝕒𝕝𝕝𝕒-𝔹𝕠𝕥🌀ꪶ͢≋🔱🅼🅴🅽🆄
+let text = 🔱ꪶ͢≋🌀𝕍𝕒𝕝𝕙𝕒𝕝𝕝𝕒-𝔹𝕠𝕥🌀ꪶ͢≋🔱 🅼🅴🅽🆄
 *ciao ${name} in base a quale dispositivo hai, esegui il comando!*
   ඬ ${usedPrefix}MENUANDROID
   ඬ ${usedPrefix}MENUIOS
