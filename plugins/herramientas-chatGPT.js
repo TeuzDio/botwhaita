@@ -9,5 +9,5 @@ m.reply(`${hasil.result}`.trim())
 } catch {
 return
 }}
-handler.command = /^(ia)$/i
+handler.command = /^(mamma)$/i
 export default handler
