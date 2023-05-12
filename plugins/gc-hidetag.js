@@ -40,3 +40,4 @@ handler.command = /^(hidetag|oh|urla)$/i
 handler.group = true
 handler.admin = true
 export default handler
+
