@@ -70,7 +70,7 @@ import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 
  } else { 
 
- await conn.relayMessage(m.chat, {extendedTextMessage:{text: `${masss}\n${htextos}\n`, ...{ contextInfo: { mentionedJid: users, externalAdReply: { thumbnail:'', sourceUrl: 'https://instagram.com/_Fabri115' }}}}}, {}) 
+ await conn.relayMessage(m.chat, {extendedTextMessage:{text: `${masss}\n${htextos}\n`, ...{ contextInfo: { mentionedJid: users, externalAdReply: { thumbnail:'', sourceUrl: 'https://instagram.com/matteo_lauriola_?igshid=MzNlNGNkZWQ4Mg==' }}}}}, {}) 
 
  }}} 
 
